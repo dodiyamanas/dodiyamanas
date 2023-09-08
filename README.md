@@ -1,1 +1,1 @@
-Work in progress
+<img src="banner.jpg" alt="banner">
